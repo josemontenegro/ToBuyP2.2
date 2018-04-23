@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToBuy-Montenegro</string>
+    <string name="action_settings">Settings</string>
+    <string name="ingresa_nueva_cantidad">Ingresa nueva cantidad</string>
+    <string name="nuevo_producto">Nuevo Producto</string>
+    <string name="nueva_cantidad">Nueva Cantidad</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="producto">Producto</string>
+</resources>
